@@ -1,0 +1,7 @@
+*.json.generated
+*.generated.json
+.env
+.env.*
+*.log
+*.bak
+.validation/
